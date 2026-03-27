@@ -1,7 +1,7 @@
-def add(a, b):
-    return a + b
-def subtract(a, b):
-    return a - b
+def add(b, c):
+    return b + c
+def subtract(b, c):
+    return b - c
 
 
 # Erweitere auch den Print-Befehl unten:
